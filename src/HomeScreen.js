@@ -11,7 +11,22 @@ function HomeScreen() {
       
       {/*Bannner */}
       <Banner></Banner>
-
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
+     <h1>EXAMPLE TEXT</h1>
       {/*Rows */}
     </div>
   );
