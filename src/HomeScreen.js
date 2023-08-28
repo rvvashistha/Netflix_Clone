@@ -8,7 +8,7 @@ function HomeScreen() {
     <div className="homeScreen">
       {/*Nav Bar */}
       <Nav></Nav> 
-
+      
       {/*Bannner */}
       <Banner></Banner>
 
